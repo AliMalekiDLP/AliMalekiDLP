@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/devlearnpath-logo.jpg" alt="DevLearnPath official logo" width="170" />
+<img src="./devlearnpath-logo.jpg" alt="DevLearnPath Logo" width="200" />
 
 # DevLearnPath
 
