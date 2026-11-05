@@ -31,17 +31,43 @@ The brand brings together software development, application development, enginee
 
 ## Technology Stack
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-111827?style=for-the-badge&logo=django&logoColor=44B78B" />
-  <img alt="AI" src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+
+## 🧠 Technologies & Technical Skills
+
+### 💻 Software Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,django" />
 </p>
 
-*This list is intentionally expandable. Add tools and technologies as your work and experience grow.*
+### ⚙️ Engineering & Technical Software
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=autocad,matlab" />
+</p>
+
+- COMSOL
+- MATLAB
+- GIS
+- SketchUp
+- AutoCAD
+- ICDL
+
+### 🚀 Development Areas
+
+- Software Engineering
+- Full-Stack Development
+- Backend Development
+- Web Application Development
+- API Development
+- Application Development
+- Artificial Intelligence
+
+### 🔮 Future Technologies
+
+Expanding the technology stack with new tools,
+frameworks and engineering technologies.
+
 
 ## Project Workflow
 
