@@ -81,11 +81,72 @@ frameworks and engineering technologies.
 
 ## Featured Repositories
 
-> Replace these examples with real repositories when you publish your projects. Do not leave placeholder links in the final public profile.
 
-- **[Project One](https://github.com/YOUR-USERNAME/PROJECT-ONE)** — Briefly explain the problem, your solution, and the main technologies.
-- **[Project Two](https://github.com/YOUR-USERNAME/PROJECT-TWO)** — Briefly explain the problem, your solution, and the main technologies.
-- **[Project Three](https://github.com/YOUR-USERNAME/PROJECT-THREE)** — Briefly explain the problem, your solution, and the main technologies.
+## 🚀 Projects & Portfolio
+
+Welcome to the DevLearnPath project portfolio.
+
+Our project areas cover software development, engineering
+applications, technical solutions and academic projects.
+
+### 💻 01. Full-Stack & Web Development
+
+- Frontend Development
+- Backend Development
+- Full-Stack Web Applications
+- REST API Development
+- Database-Driven Applications
+- Website Design & Development
+
+**Technologies:** JavaScript, TypeScript, React, Node.js, Python, Django
+
+### 📱 02. Application Development
+
+- Desktop Applications
+- Web Applications
+- Custom Software Solutions
+- Business & Management Applications
+
+### 🧠 03. Artificial Intelligence
+
+- AI-Based Applications
+- Intelligent Software Solutions
+- Data Processing & Automation
+- Machine Learning Projects
+
+### ⚙️ 04. Engineering & Simulation
+
+- COMSOL
+- MATLAB
+- Engineering Modeling & Simulation
+
+### 🌍 05. GIS & Geographic Solutions
+
+- Geographic Information Systems
+- Spatial Data Analysis
+- Mapping & Geographic Projects
+
+### 🏗️ 06. Design & Technical Software
+
+- AutoCAD
+- SketchUp
+- Technical Drawing & Modeling
+
+### 🎓 07. Educational & Academic Projects
+
+- ICDL
+- سایر پروژه‌های دانشگاهی
+
+---
+
+### 📌 Project Showcase
+
+Real project demonstrations, source codes,
+documentation and technical case studies
+will be published here as the portfolio grows.
+
+**More projects coming soon!**
+
 
 ## Connect
 
