@@ -139,6 +139,38 @@ applications, technical solutions and academic projects.
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AliMalekiDLP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMalekiDLP&layout=compact&theme=tokyonight&hide_border=true" />
+
+### Contribution Streak
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AliMalekiDLP&theme=tokyonight&hide_border=true" />
+
+### Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliMalekiDLP&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for Visiting DevLearnPath
+
+**Learn the Path. Build the Future.**
+
+</div>
+
+---
+
 ### 📌 Project Showcase
 
 Real project demonstrations, source codes,
